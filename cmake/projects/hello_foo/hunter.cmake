@@ -11,7 +11,7 @@ hunter_add_version(
         URL
         "https://github.com/ImDmitrybtw/hello_foo/archive/v1.0.0.tar.gz"
         SHA1
-        4cecb6c001e21a8ca9716eb86dfc91ce0369b918
+        b7d963e76fa54a9c47de2fb3d96aa18896f5145c
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)

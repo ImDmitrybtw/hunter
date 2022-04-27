@@ -5,7 +5,7 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
         PACKAGE_NAME
-        hunter_box_1
+        hello_foo
         VERSION
         "1.0.0"
         URL
